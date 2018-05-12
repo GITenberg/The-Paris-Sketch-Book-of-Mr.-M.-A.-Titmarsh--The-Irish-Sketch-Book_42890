@@ -1,0 +1,34 @@
+_repo: The-Paris-Sketch-Book-of-Mr.-M.-A.-Titmarsh--The-Irish-Sketch-Book_42890
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42890-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    aliases:
+    - Thackeray, W. M.
+    - Titmarsh, M. A.
+    - Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+description: Illustrated by the author.
+gutenberg_issued: '2013-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Description and travel'
+- !lcc 'PR'
+- !lcsh 'Paris (France) -- Description and travel'
+title: The Paris Sketch Book of Mr. M. A. Titmarsh; and the Irish Sketch Book
+url: http://www.gutenberg.org/ebooks/42890
