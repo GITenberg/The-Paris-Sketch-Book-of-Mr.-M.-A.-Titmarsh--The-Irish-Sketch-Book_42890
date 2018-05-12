@@ -18,6 +18,8 @@ creator:
     - http://www.victorianweb.org/authors/wmt/wmtov.html
     - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42890#The-Paris-Sketch-Book-of-Mr.-M.-A.-Titmarsh--The-Irish-Sketch-Book
 gutenberg_issued: '2013-06-07'
 gutenberg_type: Text
 identifiers:
